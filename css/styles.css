@@ -130,6 +130,10 @@ address {
   background: #f4f4fd;
 }
 
+.team-item {
+  background-color: #ffffff;
+}
+
 .footer {
   background: #2e2f42;
 }
