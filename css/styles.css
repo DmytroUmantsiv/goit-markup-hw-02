@@ -114,6 +114,10 @@ address {
   background: #404bbf;
 }
 
+.about-title {
+  font-weight: 500;
+}
+
 .about-subtitle {
   font-size: 20px;
   line-height: 1.2;
@@ -130,9 +134,16 @@ address {
 .team {
   background: #f4f4fd;
 }
+.team-title {
+  font-weight: 500;
+}
 
 .team-item {
   background-color: #ffffff;
+}
+
+.portfolio-title {
+  font-weight: 500;
 }
 
 .footer {
